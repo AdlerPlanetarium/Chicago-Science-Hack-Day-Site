@@ -1,0 +1,9 @@
+{
+  "name": "Chicago-Science-Hack-Day-Site",
+  "dependencies": {
+    "publisssh": "~0.2.6"
+  },
+  "scripts": {
+    "deploy": "publisssh --config deploy.coffee"
+  }
+}
